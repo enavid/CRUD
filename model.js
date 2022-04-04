@@ -1,8 +1,16 @@
 const db = [
     {
         'id': 1,
-        'name': 'navid sadeghi',
-        'status': 'true',
+        'name': 'test',
+        'username': 'test2',
+        'password': 'testtest',
+        'email': 'test@test.com',
+        'token': 'token',
+        'data': [{
+            'id': '1',
+            'task': 'twitch',
+            'status': 'doing'
+        }]
     }
 ]
 
