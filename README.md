@@ -63,10 +63,10 @@ These four operations are the backbone of nearly every application you use today
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/enavid/CRUD.git
 
 # Move into the directory
-cd <your-project-folder>
+cd CRUD
 
 # Install dependencies
 npm install express
